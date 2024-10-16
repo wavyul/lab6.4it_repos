@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest6.4it.cpp
+D:\project\LB6.4it\LB6.4it\main.cpp(12,50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/UnitTest6.4it.cpp')
+  
+     Creating library D:\project\LB6.4it\x64\Debug\UnitTest6.4it.lib and object D:\project\LB6.4it\x64\Debug\UnitTest6.4it.exp
+  UnitTest6.4it.vcxproj -> D:\project\LB6.4it\x64\Debug\UnitTest6.4it.dll
